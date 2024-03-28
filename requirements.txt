@@ -1,0 +1,15 @@
+openai 
+langchain
+langchain-openai
+langchain_pinecone
+docarray
+pydantic
+pytube 
+python-dotenv
+tiktoken 
+pinecone-client 
+scikit-learn
+ruff
+trulens-eval==0.22.0
+git+https://github.com/openai/whisper.git
+git+https://github.com/truera/trulens#subdirectory=trulens_eval
